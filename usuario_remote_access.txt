@@ -1,0 +1,6 @@
+ip_server = 192.168.1.220
+
+cd "C:\Program Files\RabbitMQ Server\rabbitmq_server-4.0.7\sbin"
+
+user: trabalho_redes
+psswrld: redesdecomputadores_20242
