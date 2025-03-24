@@ -12,7 +12,7 @@ Publica os dados no tópico "TemperaturaPlanta".
 """
 
 # Configurar a conexão com o RabbitMQ do computador Receiver
-rabbitmq_host = "192.168.1.220" #ip do pc receiver
+rabbitmq_host = "172.21.29.200" #ip do pc receiver
 username = "trabalho_redes"
 password = "redesdecomputadores_20242"
 
